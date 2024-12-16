@@ -19,52 +19,42 @@ This is a full-stack collaborative task management system built with the MERN (M
 ## Frontend
 
 1. Clone the repository:
-   \`\`\`
-   git clone https://github.com/AbuQamar7379/great-learning-task-management.git
-   cd great-learning-task-management
-   \`\`\`
+   
+         git clone https://github.com/AbuQamar7379/great-learning-task-management.git
+         cd great-learning-task-management
 
-2. Install dependencies for frontend:
-   \`\`\`
+2. Install dependencies for frontend
 
    # Install frontend dependencies
 
-   cd frontend
-   npm install
-   \`\`\`
+         cd frontend
+         npm install
 
 3. Start the development server:
-   \`\`\`
 
    # Start frontend development server
 
-   npm run dev
-   \`\`\`
+         npm run dev
 
    ## Backend
 
 4. Install dependencies for Backend:
-   \`\`\`
 
    # Install frontend dependencies
 
-   cd ..
-   cd backend
-   npm install
-   \`\`\`
+         cd ..
+         cd backend
+         npm install
 
 5. Build backend
-   \`\`\`
-   npm run build
-   \`\`\`
+
+         npm run build
 
 6. Start the development server:
-   \`\`\`
 
    # Start backend development server
 
-   npm run start
-   \`\`\`
+         npm run start
 
 ## Usage
 
